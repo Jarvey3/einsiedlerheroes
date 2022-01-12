@@ -28,6 +28,7 @@ Things that might be implemented after launch
 - Settings
 - Localization
 - Wiki
+- Infos on heroes, enemies and locations
 
 
 ---Changelog---
