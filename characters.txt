@@ -1,0 +1,7 @@
+# Collection of characters and theirs stats to implement
+
+ID - Name
+0 - ein siedler
+1 - Noudle
+2 - Bhutan Flag
+3 - Vegan Chicken Nuggets

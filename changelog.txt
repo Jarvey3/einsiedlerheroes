@@ -1,0 +1,41 @@
+---TODO list---
+
+Planned for the near future
+
+- Stamina system for heroes
+- Move hero/enemy stats to external file
+- Battle on multiple difficulties
+- Add more enemies
+- Add more heroes
+- More balanced hero stats
+- Random events
+- Offers (Reduced costs on holidays)
+- Save game data
+- Level system
+- Hero stamina system
+- Hero upgrading
+
+---Coming later---
+
+Things that might be implemented after launch
+
+- Graphical enhancements
+- Different battle types
+- More complex battle system
+- Challenges
+- Moving away from terminal to a windowed application
+- Actual Graphics
+- Settings
+- Localization
+- Wiki
+
+
+---Changelog---
+
+v1.0 (planned, later this year)
+- Basic version of the game
+
+
+pre-alpha0.0.0 
+- current barebones version
+- only basic features are playable

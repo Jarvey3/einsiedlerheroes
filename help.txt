@@ -1,0 +1,32 @@
+---HELP---
+
+Supported actions
+
+A: None
+B: Go to Battle Menu
+C: Display collection
+D: None
+E: None
+F: None
+G: None
+H: Display this help
+I: None
+J: None
+K: None
+L: None
+M: None
+N: None
+O: None
+P: None
+Q: End the game
+R: None
+S: Open the shop
+T: None
+U: None
+V: None
+W: None
+X: None
+Y: None
+Z: None
+
+---END HELP---
